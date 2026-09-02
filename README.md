@@ -2,7 +2,7 @@
 
 Official implementation of **Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards** (ECCV 2026).
 
-[[Paper](https://arxiv.org/abs/2603.23086)] [[LlamaGen backbone](https://github.com/FoundationVision/LlamaGen)][[Poster](assets/poster.png)]
+[[Paper](https://arxiv.org/abs/2603.23086)] [[LlamaGen backbone](https://github.com/FoundationVision/LlamaGen)] [[Poster](assets/poster.png)]
 
 ![Generated samples](assets/teaser.jpg)
 
