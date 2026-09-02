@@ -2,11 +2,9 @@
 
 Official implementation of **Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards** (ECCV 2026).
 
-[[Paper](https://arxiv.org/abs/2603.23086)] [[LlamaGen backbone](https://github.com/FoundationVision/LlamaGen)]
+[[Paper](https://arxiv.org/abs/2603.23086)] [[LlamaGen backbone](https://github.com/FoundationVision/LlamaGen)][[Poster](assets/poster.pdf)]
 
 ![Generated samples](assets/teaser.jpg)
-
-![Poster](assets/poster.pdf)
 
 This repository tunes a pretrained class-conditional autoregressive image model with a GRPO-style objective. The implementation combines instance-level CLIP and HPSv2 rewards with an online distribution-level diagonal-FID reward. It covers policy tuning and image generation.
 
