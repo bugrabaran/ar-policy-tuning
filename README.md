@@ -6,6 +6,8 @@ Official implementation of **Policy-based Tuning of Autoregressive Image Models 
 
 ![Generated samples](assets/teaser.jpg)
 
+![Poster](assets/poster.pdf)
+
 This repository tunes a pretrained class-conditional autoregressive image model with a GRPO-style objective. The implementation combines instance-level CLIP and HPSv2 rewards with an online distribution-level diagonal-FID reward. It covers policy tuning and image generation.
 
 ## Setup
